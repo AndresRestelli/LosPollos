@@ -1,0 +1,64 @@
+*{
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1, h2{
+    color:#B95096;
+    letter-spacing: 20px;
+    font-weight: 150;
+}
+h2
+{
+    letter-spacing: 5px;
+    
+
+} 
+p{
+    color: #395DA6;
+}
+
+header {
+           text-align: center;
+    }
+
+header img {
+        width: 350px;
+ }
+
+    .HotelPop p{
+        margin-right: 5px;
+    }
+
+    .HotelPop img{
+    float: right;
+    width: 20%;
+    
+    
+    
+}
+.HotelPop {
+    margin-bottom: 100px;        
+}
+.HotelCaribbean img{
+    float: left;
+    height: 5%;
+    width: 20%;
+    margin: 10px;
+}
+.h2_Kingdom{
+    margin-top: 20px;
+}
+.Animal-Kingdom{
+    text-align: center;
+    margin-top: 50px;
+}
+.Animal-Kingdom img{
+    float: right;       
+}
+
+.mickey-minnie{
+    margin-top: 150px;
+}
+.mickey-minnie img{
+
+    width: 100%;
+}
